@@ -1,0 +1,2 @@
+# gha_qmake_gcc_cpp17_gcov
+gha_qmake_gcc_cpp17_gcov
