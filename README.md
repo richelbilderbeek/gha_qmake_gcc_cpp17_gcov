@@ -1,9 +1,9 @@
 # gha_qmake_gcc_cpp17_gcov
 
-Branch   |[GitHub Actions](https://github.com/richelbilderbeek/gha_qmake_gcc_cpp17_gcov/actions)                                  
----------|-------------------------------------------------------------------------------------------------------------------
-`master` |![GitHub Actions](https://github.com/richelbilderbeek/gha_qmake_gcc_cpp17_gcov/workflows/check/badge.svg?branch=master) 
-`develop`|![GitHub Actions](https://github.com/richelbilderbeek/gha_qmake_gcc_cpp17_gcov/workflows/check/badge.svg?branch=develop)
+Branch   |[GitHub Actions](https://github.com/richelbilderbeek/gha_qmake_gcc_cpp17_gcov/actions)                                  ||[![Codecov logo](Codecov.png)](https://www.codecov.io)
+---------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+`master` |![GitHub Actions](https://github.com/richelbilderbeek/gha_qmake_gcc_cpp17_gcov/workflows/check/badge.svg?branch=master) |[![codecov.io](https://codecov.io/github/richelbilderbeek/travis_qmake_gcc_cpp17_gcov/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/travis_qmake_gcc_cpp17_gcov/branch/master)
+`develop`|![GitHub Actions](https://github.com/richelbilderbeek/gha_qmake_gcc_cpp17_gcov/workflows/check/badge.svg?branch=develop)|[![codecov.io](https://codecov.io/github/richelbilderbeek/travis_qmake_gcc_cpp17_gcov/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/travis_qmake_gcc_cpp17_gcov/branch/develop)
 
 This GitHub is part of [the Travis C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial).
 
